@@ -2,7 +2,7 @@
 ## Matlab codes used for determining angles between crystallographic axes and orientations of microanaltyical traverses
 
 ### Introduction
-These Matlab scripts are designed to calculate the angles between the crystallographic axes (measured by EBSD) and the orientation of an analytical traverse across a crystal. The mtex toolbox and Matlab’s The traverse orientation is drawn by the user on an electron image that was collected in the same orientation as the EBSD data.
+These Matlab scripts are designed to calculate the angles between the orientations of the crystallographic axes (measured by EBSD) and the orientation of an analytical traverse across a crystal, utilizing the MTEX toolbox. After importing the EBSD data, the traverse orientation is drawn by the user on an electron image that was collected in the same orientation as the EBSD data.
 These codes are intended to be used for diffusion chronometry when diffusivity is anisotropic. 
 
 ### Dependencies
