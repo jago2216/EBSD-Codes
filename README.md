@@ -1,4 +1,4 @@
-# README file for ApatiteEBSD.m, OlivineEBSD.m, and OrthopyroxeneEBSD.m
+# ApatiteEBSD.m, OlivineEBSD.m, and OrthopyroxeneEBSD.m
 ## Matlab codes used for determining angles between crystallographic axes and orientations of microanaltyical traverses
 
 ### Introduction
